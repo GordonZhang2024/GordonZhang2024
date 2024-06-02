@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GordonZhang2024
 - [My website](https://gordonzhang.pythonanywhere.com/)
 - [PyPI profile](https://pypi.org/user/GordonZhang/)
+- [blog](https://gordonzhang2024.github.io/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GordonZhang2024&hide=Jupyter_Notebook,HTML,CSS,XSLT)](https://github.com/anuraghazra/github-readme-stats)
 
