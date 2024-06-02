@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GordonZhang2024
+- 👋 Hi, I’m @GordonZhang2024 🐱
 - [My website](https://gordonzhang.pythonanywhere.com/)
 - [PyPI profile](https://pypi.org/user/GordonZhang/)
 - [blog](https://gordonzhang2024.github.io/)
