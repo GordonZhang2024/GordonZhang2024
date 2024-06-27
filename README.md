@@ -4,6 +4,7 @@
 - [blog](https://gordonzhang2024.github.io/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GordonZhang2024&hide=Jupyter_Notebook,HTML,CSS,XSLT&exclude_repo=SpaceVim,XPython)](https://github.com/anuraghazra/github-readme-stats)
+[![Gordon Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GordonZhang2024)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 GordonZhang2024/GordonZhang2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
