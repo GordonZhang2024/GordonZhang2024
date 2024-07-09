@@ -7,7 +7,7 @@
 
 ## About me
 ### OS I use
-- Fedora
+- Fedora Linux
 - FreeBSD
 
 ## I'm interested in ...
