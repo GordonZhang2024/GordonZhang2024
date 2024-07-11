@@ -10,6 +10,9 @@
 - Fedora Linux
 - FreeBSD
 
+## Code editor
+- Neovim
+
 ## I'm interested in ...
 - Programming
 - Algorithms
