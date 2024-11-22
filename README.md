@@ -20,6 +20,7 @@
 - Algorithms
 - Music (especially classical music)
   [My last.fm profile](https://www.last.fm/user/GordonZhang)
+- Flight Simulators (I use FlightGear)
 
 <!---
 GordonZhang2024/GordonZhang2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
