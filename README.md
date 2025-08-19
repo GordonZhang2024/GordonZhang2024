@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @GordonZhang2024
-- **Age:13**
-- [My website](https://gordonzhang.pythonanywhere.com/)
-- [PyPI profile](https://pypi.org/user/GordonZhang/)
-- [blog](https://gordonzhang2024.github.io)
+- **Age:14**
+
 
 [![Gordon Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GordonZhang2024)](https://github.com/anuraghazra/github-readme-stats)
 
